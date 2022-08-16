@@ -2,7 +2,7 @@ a=int( input("Enter A\n"))
 b=int( input("Enter B\n"))
 total=a+b
 print(a,b,total)
-SIngle line comment
+# SIngle line comment
 """
 * multiply
 / divide
